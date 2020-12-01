@@ -1,0 +1,13 @@
+https://www.google.com,Google
+https://kith.com,KITH
+https://undefeated.com,Undefeated
+https://eflash-us.doverstreetmarket.com,Eflash-us
+https://eflash.doverstreetmarket.com,Eflash
+https://www.yeezysupply.com,Yeezysupply
+https://www.adidas.com/us,AdidasUS
+https://www.adidas.co.uk,AdidasUK
+https://www.nike.com/launch,Nike
+https://www.supremenewyork.com,Supreme
+https://www.footlocker.com,Footlocker
+https://www.finishline.com,Finishline
+https://www.hibbett.com,Hibbett

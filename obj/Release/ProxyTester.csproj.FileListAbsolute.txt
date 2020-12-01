@@ -1,0 +1,240 @@
+E:\03_windows\02_WPF\ProxyTester\bin\Release\ProxyTester.exe.config
+E:\03_windows\02_WPF\ProxyTester\bin\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\bin\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\bin\Release\Dragablz.dll
+E:\03_windows\02_WPF\ProxyTester\bin\Release\MaterialDesignColors.dll
+E:\03_windows\02_WPF\ProxyTester\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\03_windows\02_WPF\ProxyTester\bin\Release\Dragablz.pdb
+E:\03_windows\02_WPF\ProxyTester\bin\Release\Dragablz.xml
+E:\03_windows\02_WPF\ProxyTester\bin\Release\MaterialDesignColors.pdb
+E:\03_windows\02_WPF\ProxyTester\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\03_windows\02_WPF\ProxyTester\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\03_windows\02_WPF\ProxyTester\obj\Release\MainWindow.g.cs
+E:\03_windows\02_WPF\ProxyTester\obj\Release\UserControl1.g.cs
+E:\03_windows\02_WPF\ProxyTester\obj\Release\App.g.cs
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester_MarkupCompile.cache
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester_MarkupCompile.lref
+E:\03_windows\02_WPF\ProxyTester\obj\Release\App.baml
+E:\03_windows\02_WPF\ProxyTester\obj\Release\MainWindow.baml
+E:\03_windows\02_WPF\ProxyTester\obj\Release\UserControl1.baml
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester.g.resources
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester.Properties.Resources.resources
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester.csproj.GenerateResource.cache
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester.csproj.CopyComplete
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester.pdb
+C:\Users\Charmer\Documents\New folder\bin\Release\ProxyTester.exe.config
+C:\Users\Charmer\Documents\New folder\bin\Release\ProxyTester.exe
+C:\Users\Charmer\Documents\New folder\bin\Release\ProxyTester.pdb
+C:\Users\Charmer\Documents\New folder\bin\Release\Dragablz.dll
+C:\Users\Charmer\Documents\New folder\bin\Release\MaterialDesignColors.dll
+C:\Users\Charmer\Documents\New folder\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Charmer\Documents\New folder\bin\Release\Dragablz.pdb
+C:\Users\Charmer\Documents\New folder\bin\Release\Dragablz.xml
+C:\Users\Charmer\Documents\New folder\bin\Release\MaterialDesignColors.pdb
+C:\Users\Charmer\Documents\New folder\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Charmer\Documents\New folder\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Charmer\Documents\New folder\obj\Release\MainWindow.g.cs
+C:\Users\Charmer\Documents\New folder\obj\Release\UserControl1.g.cs
+C:\Users\Charmer\Documents\New folder\obj\Release\App.g.cs
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester_MarkupCompile.cache
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester_MarkupCompile.lref
+C:\Users\Charmer\Documents\New folder\obj\Release\App.baml
+C:\Users\Charmer\Documents\New folder\obj\Release\MainWindow.baml
+C:\Users\Charmer\Documents\New folder\obj\Release\UserControl1.baml
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester.g.resources
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester.Properties.Resources.resources
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester.csproj.GenerateResource.cache
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester.csproj.CopyComplete
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester.exe
+C:\Users\Charmer\Documents\New folder\obj\Release\ProxyTester.pdb
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\ProxyTester.exe
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\Dragablz.dll
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\MaterialDesignColors.dll
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\ProxyTester.exe.config
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\Dragablz.pdb
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\Dragablz.xml
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\MaterialDesignColors.pdb
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\MainWindow.g.cs
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\UserControl1.g.cs
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\App.g.cs
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester_MarkupCompile.cache
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester_MarkupCompile.lref
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\App.baml
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\MainWindow.baml
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\UserControl1.baml
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester.g.resources
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester.Properties.Resources.resources
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester.csproj.GenerateResource.cache
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester.csproj.CopyComplete
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester.exe
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester.pdb
+C:\Users\Charmer\Documents\ProxyTester\bin\Release\ProxyTester.pdb
+C:\Users\Charmer\Documents\ProxyTester\obj\Release\ProxyTester.csprojAssemblyReference.cache
+E:\03_windows\02_WPF\ProxyTester\obj\Release\ProxyTester.csprojAssemblyReference.cache
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\ProxyTester.exe.config
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\ProxyTester.exe
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\ProxyTester.pdb
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\Dragablz.dll
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\MaterialDesignColors.dll
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\Dragablz.pdb
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\Dragablz.xml
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\MaterialDesignColors.pdb
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester.csprojAssemblyReference.cache
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\MainWindow.g.cs
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\UserControl1.g.cs
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\App.g.cs
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester_MarkupCompile.cache
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester_MarkupCompile.lref
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\App.baml
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\MainWindow.baml
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\UserControl1.baml
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester.g.resources
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester.Properties.Resources.resources
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester.csproj.GenerateResource.cache
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester.csproj.CopyComplete
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester.exe
+C:\Users\Charmer\Documents\My_Received_Files\ProxyTester(05070124)\obj\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\ProxyTester.exe.config
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\Dragablz.dll
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\MaterialDesignColors.dll
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\Dragablz.pdb
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\Dragablz.xml
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\MaterialDesignColors.pdb
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\03_windows\02_WPF\ProxyTester(05082215)\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester.csprojAssemblyReference.cache
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\MainWindow.g.cs
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\UserControl1.g.cs
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\App.g.cs
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester_MarkupCompile.cache
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester_MarkupCompile.lref
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\App.baml
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\MainWindow.baml
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\UserControl1.baml
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester.g.resources
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester.Properties.Resources.resources
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester.csproj.GenerateResource.cache
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester.csproj.CopyComplete
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester(05082215)\obj\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\ProxyTester.exe.config
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\Dragablz.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\MaterialDesignColors.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\Dragablz.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\Dragablz.xml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\MaterialDesignColors.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\MainWindow.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\UserControl1.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\App.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester_MarkupCompile.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester_MarkupCompile.lref
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\App.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\MainWindow.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\UserControl1.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester.g.resources
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester.Properties.Resources.resources
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester.csproj.GenerateResource.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester.csproj.CopyComplete
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05082215)\obj\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\ProxyTester.exe.config
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\Dragablz.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\MaterialDesignColors.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\Dragablz.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\Dragablz.xml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\MaterialDesignColors.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\MainWindow.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\UserControl1.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\App.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester_MarkupCompile.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester_MarkupCompile.lref
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\App.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\MainWindow.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\UserControl1.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester.g.resources
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester.Properties.Resources.resources
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester.csproj.GenerateResource.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester.csproj.CopyComplete
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05121400)\obj\Release\ProxyTester.csprojAssemblyReference.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\ProxyTester.exe.config
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\Dragablz.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\MaterialDesignColors.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\Dragablz.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\Dragablz.xml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\MaterialDesignColors.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\MainWindow.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\UserControl1.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\App.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester_MarkupCompile.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester_MarkupCompile.lref
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\App.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\MainWindow.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\UserControl1.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester.g.resources
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester.Properties.Resources.resources
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester.csproj.GenerateResource.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester.csproj.CopyComplete
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(05181000)\obj\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\ProxyTester.exe.config
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\ProxyTester.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\Dragablz.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\MaterialDesignColors.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\Dragablz.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\Dragablz.xml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\MaterialDesignColors.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester.csprojAssemblyReference.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\MainWindow.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\UserControl1.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\App.g.cs
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester_MarkupCompile.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester_MarkupCompile.lref
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\App.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\MainWindow.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\UserControl1.baml
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester.g.resources
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester.Properties.Resources.resources
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester.csproj.GenerateResource.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester.csproj.CoreCompileInputs.cache
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester.csproj.CopyComplete
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester.exe
+E:\03_windows\02_WPF\ProxyTester\ProxyTester(052512100)\obj\Release\ProxyTester.pdb
